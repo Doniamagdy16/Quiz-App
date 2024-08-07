@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizAppStates</string>
+    <string-array name="sort_items">
+        <item>sort by  </item>
+        <item>sort by score descending </item>
+        <item>sort by score ascending</item>
+        <item>sort by name descending</item>
+        <item>sort by name ascending</item>
+
+    </string-array>
+</resources>
